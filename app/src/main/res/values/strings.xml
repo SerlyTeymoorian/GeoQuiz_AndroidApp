@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="grade_quiz">Your quiz score is: </string>
+    <string name="grade_print">0</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_spain">Madrid is the capital of Spain.</string>
+    <string name="question_river">The Mississippi River is the second longest river in North America.</string>
+    <string name="question_egypt">Egypt is part of Europe continent.</string>
+    <string name="question_ocean">The Pacific Ocean is the deepest ocean of the world.</string>
+    <string name="question_canada">Toronto is the capital of Canada.</string>
+</resources>
